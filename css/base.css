@@ -518,6 +518,7 @@ main {
 }
 
 h2.strip-cover__title img {
-	min-width: 70vw;
+	width: 70vw;
+	max-width: 500px;
 	height: 100px;
 }
