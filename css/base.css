@@ -95,6 +95,8 @@ main {
 	left: 0;
 	z-index: 1000;
 	pointer-events: none;
+	font-family: helvetica;
+    font-weight: bold;
 }
 
 .frame a {
@@ -521,4 +523,8 @@ h2.strip-cover__title img {
 	width: 70vw;
 	max-width: 500px;
 	height: 100px;
+}
+
+.strip-cover__subtitle img {
+	max-width: 50px;
 }
