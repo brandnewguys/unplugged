@@ -516,3 +516,8 @@ main {
 		border: 1px solid #fff;
 	}
 }
+
+h2.strip-cover__title img {
+	min-width: 70vw;
+	height: 100px;
+}
